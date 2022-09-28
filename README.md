@@ -2,4 +2,4 @@
  DayZ server [LOOT GOBLIN FRAMEWORK]
 
 # Warnings
-This is not a full download mearly a Backup of important ish files
+This is not a full download merely a Backup of important ish files
