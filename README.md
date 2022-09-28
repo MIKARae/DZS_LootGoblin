@@ -1,2 +1,2 @@
-# DZS_LootGoblin
-DayZ server [LOOT GOBLIN FRAMEWORK]
+# DZS Loot Goblin
+ DayZ server [LOOT GOBLIN FRAMEWORK]
