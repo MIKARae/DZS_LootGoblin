@@ -1,0 +1,387 @@
+
+
+[2022-08-10 18:40:46] [AppID 221100] Schema not found on disk
+[2022-08-10 18:40:47] [AppID 221100] CAPIJobRequestUserStats - updated schema from server
+[2022-08-10 18:40:47] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-10 18:43:44] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-10 18:45:06] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-10 18:46:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-10 18:46:36] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-22 12:18:40] [AppID 221100] Loaded schema from disk.
+[2022-08-22 12:18:40] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-22 12:20:47] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:23:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:25:39] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:27:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:28:45] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:31:27] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:34:00] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:35:41] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:36:57] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:38:58] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:41:56] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:43:03] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:44:53] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:46:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:47:53] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:49:04] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:50:22] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:51:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:53:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:55:21] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 12:57:45] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 13:00:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 13:02:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 13:03:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 13:06:20] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 13:07:25] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-22 15:10:12] [AppID 221100] Loaded schema from disk.
+[2022-08-22 15:10:13] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-22 15:11:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:13:21] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:15:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:17:11] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:19:31] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:21:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:23:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:26:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:28:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:29:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:31:23] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:32:45] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:34:26] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:36:57] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:39:46] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:40:12] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-22 15:43:02] [AppID 221100] Loaded schema from disk.
+[2022-08-22 15:43:02] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-22 15:43:44] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-22 15:44:32] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 15:46:03] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-22 16:06:26] [AppID 221100] Loaded schema from disk.
+[2022-08-22 16:06:26] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-22 16:08:14] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:10:58] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:12:55] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:15:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:17:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:19:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:20:40] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:22:11] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:24:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:25:58] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:28:51] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:30:38] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:32:29] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:33:41] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:35:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:36:59] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:38:36] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:40:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:42:02] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:44:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:45:34] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:47:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:50:04] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:52:23] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:54:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:57:01] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 16:59:57] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:01:15] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:04:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:06:22] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:08:44] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:11:11] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:13:28] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:15:34] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:16:37] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:17:52] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:20:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:21:25] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:23:49] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:25:44] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:28:27] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:31:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:32:57] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-22 17:35:40] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 17:07:26] [AppID 221100] Loaded schema from disk.
+[2022-08-23 17:07:26] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 17:08:44] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 17:10:16] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 17:11:42] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 17:12:59] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 17:41:55] [AppID 221100] Loaded schema from disk.
+[2022-08-23 17:41:55] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 17:44:06] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 17:46:05] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 18:14:11] [AppID 221100] Loaded schema from disk.
+[2022-08-23 18:14:11] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 18:16:45] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:18:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:20:49] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:22:51] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:25:29] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:28:20] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:30:42] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:32:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:34:46] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:36:54] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:39:41] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 18:41:34] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 19:24:18] [AppID 221100] Loaded schema from disk.
+[2022-08-23 19:24:18] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 19:25:39] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 19:28:15] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 19:28:41] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 21:20:24] [AppID 221100] Loaded schema from disk.
+[2022-08-23 21:20:24] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 21:22:59] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 21:24:15] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 21:24:39] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 21:27:56] [AppID 221100] Loaded schema from disk.
+[2022-08-23 21:27:56] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 21:29:12] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 21:30:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 21:31:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 21:35:53] [AppID 221100] Loaded schema from disk.
+[2022-08-23 21:35:54] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 21:38:21] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 21:39:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-23 22:29:47] [AppID 221100] Loaded schema from disk.
+[2022-08-23 22:29:47] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-23 22:31:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 22:32:50] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 22:35:31] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 22:36:46] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 22:38:29] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 22:40:47] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 22:42:59] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-23 22:43:32] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-24 17:15:20] [AppID 221100] Loaded schema from disk.
+[2022-08-24 17:15:21] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-24 17:17:52] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 17:18:00] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-24 17:18:01] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-24 19:06:50] [AppID 221100] Loaded schema from disk.
+[2022-08-24 19:06:50] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-24 19:09:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:12:14] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:15:14] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:16:27] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:19:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:21:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:23:20] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:25:31] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:27:19] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:28:58] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:30:04] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:31:19] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:33:42] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:36:17] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:38:16] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:39:55] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:41:12] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:43:33] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:44:55] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:46:34] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 19:47:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 20:00:15] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-24 20:01:32] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 20:04:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 20:05:47] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 20:06:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 20:08:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-24 20:08:56] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-25 06:38:00] [AppID 221100] Loaded schema from disk.
+[2022-08-25 06:40:03] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 06:42:03] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 06:43:57] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 06:45:54] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 06:48:26] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 06:51:23] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 06:51:36] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-25 19:33:47] [AppID 221100] Loaded schema from disk.
+[2022-08-25 19:33:47] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-25 19:35:15] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:37:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:38:27] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:41:21] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:42:51] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:44:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:46:02] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:47:51] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-25 19:47:52] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-27 14:11:31] [AppID 221100] Loaded schema from disk.
+[2022-08-27 14:11:31] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-27 14:14:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:16:06] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-27 14:33:04] [AppID 221100] Loaded schema from disk.
+[2022-08-27 14:33:04] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-27 14:35:32] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:36:46] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:38:31] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:41:29] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:43:12] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:44:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:46:55] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:48:55] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:50:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:51:25] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-27 14:52:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-27 20:01:00] [AppID 221100] Loaded schema from disk.
+[2022-08-27 20:01:01] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-28 08:45:53] [AppID 221100] Loaded schema from disk.
+[2022-08-28 08:47:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 08:49:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 08:51:24] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-28 14:05:16] [AppID 221100] Loaded schema from disk.
+[2022-08-28 14:08:06] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 14:11:00] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 14:12:21] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 14:14:40] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 14:16:59] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 14:18:11] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 14:21:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 14:22:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-28 20:19:58] [AppID 221100] Loaded schema from disk.
+[2022-08-28 20:19:58] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-28 20:22:17] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 20:23:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 20:26:00] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-28 20:27:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-08-29 16:39:06] [AppID 221100] Loaded schema from disk.
+[2022-08-29 16:39:06] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-08-29 16:40:44] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-29 16:42:46] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-29 16:45:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-29 16:46:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-29 16:49:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-08-29 16:49:50] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-09-13 00:15:19] [AppID 221100] Loaded schema from disk.
+[2022-09-13 00:15:19] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-13 00:17:05] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:18:42] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:20:04] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:22:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:24:33] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:26:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:28:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:30:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:31:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:33:37] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:35:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:38:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:39:36] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 00:40:40] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-09-13 01:11:59] [AppID 221100] Loaded schema from disk.
+[2022-09-13 01:11:59] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-13 01:13:05] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-09-13 08:55:11] [AppID 221100] Loaded schema from disk.
+[2022-09-13 08:55:11] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-13 08:56:35] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 08:58:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:01:06] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:03:06] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:05:38] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:07:52] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:09:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:10:22] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:12:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:12:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:40:59] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-13 09:43:26] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:43:31] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:44:40] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-13 09:47:34] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:49:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:50:24] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:52:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:53:48] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:56:04] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:58:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 09:59:31] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:02:22] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:03:47] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:04:57] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:07:12] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:08:17] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:10:45] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:12:12] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-13 10:14:21] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-09-14 00:30:02] [AppID 221100] Loaded schema from disk.
+[2022-09-14 00:31:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:32:18] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-14 00:33:40] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:36:30] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:39:02] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:41:03] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:42:40] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:45:02] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:47:20] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:48:42] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:51:00] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:52:56] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:55:26] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:57:22] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-14 00:58:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2022-09-16 13:23:33] [AppID 221100] Loaded schema from disk.
+[2022-09-16 13:23:33] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-16 13:24:37] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2022-09-16 13:25:13] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2022-09-16 13:25:18] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
