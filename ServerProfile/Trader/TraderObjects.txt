@@ -1,0 +1,49 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// Green Mountain:
+
+<TraderMarker> 			0 	        // FoodDrink							
+<TraderMarkerPosition>	3690.884033, 402.003967, 5984.012695 	
+<TraderMarkerSafezone>	700									
+
+<TraderMarker> 			1           // Tools
+<TraderMarkerPosition>	3695.363525, 402.003998, 6002.993652
+<TraderMarkerSafezone>	700
+
+<TraderMarker> 			2           // Weapon Trader
+<TraderMarkerPosition>	3714.779541, 402.003967, 5967.205078
+<TraderMarkerSafezone>	700
+
+<TraderMarker> 			3          // Weapon Attachments
+<TraderMarkerPosition>	3712.637695, 401.998444, 5976.552734
+<TraderMarkerSafezone>	700
+
+<TraderMarker> 			4          // Clothing
+<TraderMarkerPosition>	3705.915771, 402.003967, 6001.923828
+<TraderMarkerSafezone>	700
+
+<TraderMarker> 			5          // Vehicles
+<TraderMarkerPosition>	3735.022217, 402.066315, 6008.509277
+<TraderMarkerSafezone>	700
+<VehicleSpawn>			3741.258545, 402.293915, 6008.614746		// Vehicle Spawnpoint for Trader; 	Coordinate X, 	Coordinate Y, 	Coordinate Z (optional)
+<VehicleSpawnOri>		-42,		0,			0			// Vehicle Spawnpoint Orientation; 	Yaw, 			Pitch, 			Roll	 	 (optional)
+
+//<TraderMarker> 			6     // Donator Clothing
+//<TraderMarkerPosition>	0,	0,	0
+//<TraderMarkerSafezone>	700
+
+//<TraderMarker> 			7     // Black Market
+//<TraderMarkerPosition>	6919.520020, 435.470001, 11434.299805
+//<TraderMarkerSafezone>	0
+
+//<TraderMarker> 			8     // Medic
+//<TraderMarkerPosition>	3702.415283, 402.003998, 5957.951172
+//<TraderMarkerSafezone>	700
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+	
+
+// ** Custom Shit **
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

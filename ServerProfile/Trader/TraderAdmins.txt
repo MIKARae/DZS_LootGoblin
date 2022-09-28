@@ -1,0 +1,12 @@
+///////////////////////////////////////////////////////////
+//														 //
+//      Put the Steam64 IDs for your Admins in here      //
+//      Make a new Line for every ID!					 //
+//														 //
+///////////////////////////////////////////////////////////
+
+76561198212825084	// jamie
+76561198145623791	// echo
+76561198101849190	// Venom
+
+<FileEnd>			// This has to be on the End of this File and is very importand!

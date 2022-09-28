@@ -1,0 +1,39 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Green Mountain Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\objective_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                3699.27,
+                0,
+                5967.91
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Kumyrna Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\objective_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                8354.06,
+                293.143,
+                5995.87
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}
